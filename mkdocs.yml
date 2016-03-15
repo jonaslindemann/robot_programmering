@@ -1,0 +1,7 @@
+site_name: Robot Programmering
+
+pages:
+- Hem: index.md
+- mBot: mbot.md
+
+theme: readthedocs
